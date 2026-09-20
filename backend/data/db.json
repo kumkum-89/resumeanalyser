@@ -1,0 +1,264 @@
+{
+  "resumes": [
+    {
+      "id": "bd5e3187-3c32-454f-8d78-f7b51670af5d",
+      "filename": "c83142f9-d03b-4f5d-a511-71cc14b44a7a-sample_resume.pdf",
+      "originalName": "sample_resume.pdf",
+      "size": 2339,
+      "uploadedAt": "2026-09-20T04:59:09.816Z",
+      "path": "C:\\Users\\kumku\\OneDrive\\Desktop\\resume analyser 2\\backend\\uploads\\c83142f9-d03b-4f5d-a511-71cc14b44a7a-sample_resume.pdf"
+    },
+    {
+      "id": "bfb1b15b-6c6e-4502-8f56-a4cf057d60b5",
+      "filename": "0c8ec253-0ff9-48d5-895c-66bca16df0d6-sample_resume.pdf",
+      "originalName": "sample_resume.pdf",
+      "size": 2339,
+      "uploadedAt": "2026-09-20T06:40:49.542Z",
+      "path": "C:\\Users\\kumku\\OneDrive\\Desktop\\resume analyser 2\\backend\\uploads\\0c8ec253-0ff9-48d5-895c-66bca16df0d6-sample_resume.pdf"
+    },
+    {
+      "id": "c1779c6c-12e9-44f0-b6d0-5f04d8d87c74",
+      "filename": "1a0a1497-3625-4ca4-96ff-02c94544f861-Kumkum_Yadav_Sample_Resume.pdf",
+      "originalName": "Kumkum_Yadav_Sample_Resume.pdf",
+      "size": 3648,
+      "uploadedAt": "2026-09-20T06:44:40.027Z",
+      "path": "C:\\Users\\kumku\\OneDrive\\Desktop\\resume analyser 2\\backend\\uploads\\1a0a1497-3625-4ca4-96ff-02c94544f861-Kumkum_Yadav_Sample_Resume.pdf"
+    }
+  ],
+  "analyses": [
+    {
+      "id": "2aa4e6a1-3479-4f9c-a9e4-92c08af0991b",
+      "resumeId": "bd5e3187-3c32-454f-8d78-f7b51670af5d",
+      "resumeName": "sample_resume.pdf",
+      "createdAt": "2026-09-20T04:59:11.545Z",
+      "analysis": {
+        "overallScore": 74,
+        "atsScore": 71,
+        "readabilityScore": 91,
+        "sections": {
+          "experience": {
+            "score": 91,
+            "feedback": "Good experience section with quantified achievements."
+          },
+          "education": {
+            "score": 92,
+            "feedback": "Education details are well presented."
+          },
+          "skills": {
+            "score": 66,
+            "feedback": "Consider adding more technical skills relevant to your target role."
+          },
+          "summary": {
+            "score": 81,
+            "feedback": "Professional summary could be more impactful."
+          }
+        },
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "React",
+          "Node.js",
+          "SQL",
+          "Docker",
+          "AWS",
+          "Agile"
+        ],
+        "missingKeywords": [
+          "Kubernetes",
+          "TypeScript",
+          "GraphQL",
+          "CI/CD"
+        ],
+        "suggestions": [
+          "Add quantifiable metrics to at least 3 more bullet points",
+          "Include a professional summary at the top",
+          "Add links to GitHub/portfolio projects",
+          "Tailor keywords to target job descriptions",
+          "Use action verbs to start each bullet point"
+        ],
+        "strengths": [
+          "Clear and structured layout",
+          "Good use of action verbs",
+          "Relevant work experience",
+          "Educational background aligns with career goals"
+        ]
+      }
+    },
+    {
+      "id": "624be12a-b8a6-452e-8e51-6712c63041cf",
+      "resumeId": "bfb1b15b-6c6e-4502-8f56-a4cf057d60b5",
+      "resumeName": "sample_resume.pdf",
+      "createdAt": "2026-09-20T06:40:51.081Z",
+      "analysis": {
+        "overallScore": 72,
+        "atsScore": 77,
+        "readabilityScore": 90,
+        "sections": {
+          "experience": {
+            "score": 77,
+            "feedback": "Good experience section with quantified achievements."
+          },
+          "education": {
+            "score": 85,
+            "feedback": "Education details are well presented."
+          },
+          "skills": {
+            "score": 87,
+            "feedback": "Consider adding more technical skills relevant to your target role."
+          },
+          "summary": {
+            "score": 83,
+            "feedback": "Professional summary could be more impactful."
+          }
+        },
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "React",
+          "Node.js",
+          "SQL",
+          "Docker",
+          "AWS",
+          "Agile"
+        ],
+        "missingKeywords": [
+          "Kubernetes",
+          "TypeScript",
+          "GraphQL",
+          "CI/CD"
+        ],
+        "suggestions": [
+          "Add quantifiable metrics to at least 3 more bullet points",
+          "Include a professional summary at the top",
+          "Add links to GitHub/portfolio projects",
+          "Tailor keywords to target job descriptions",
+          "Use action verbs to start each bullet point"
+        ],
+        "strengths": [
+          "Clear and structured layout",
+          "Good use of action verbs",
+          "Relevant work experience",
+          "Educational background aligns with career goals"
+        ]
+      }
+    },
+    {
+      "id": "d23336be-0a9f-4af9-b763-66374f642b6f",
+      "resumeId": "c1779c6c-12e9-44f0-b6d0-5f04d8d87c74",
+      "resumeName": "Kumkum_Yadav_Sample_Resume.pdf",
+      "createdAt": "2026-09-20T06:44:41.559Z",
+      "analysis": {
+        "overallScore": 91,
+        "atsScore": 83,
+        "readabilityScore": 94,
+        "sections": {
+          "experience": {
+            "score": 75,
+            "feedback": "Good experience section with quantified achievements."
+          },
+          "education": {
+            "score": 89,
+            "feedback": "Education details are well presented."
+          },
+          "skills": {
+            "score": 66,
+            "feedback": "Consider adding more technical skills relevant to your target role."
+          },
+          "summary": {
+            "score": 78,
+            "feedback": "Professional summary could be more impactful."
+          }
+        },
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "React",
+          "Node.js",
+          "SQL",
+          "Docker",
+          "AWS",
+          "Agile"
+        ],
+        "missingKeywords": [
+          "Kubernetes",
+          "TypeScript",
+          "GraphQL",
+          "CI/CD"
+        ],
+        "suggestions": [
+          "Add quantifiable metrics to at least 3 more bullet points",
+          "Include a professional summary at the top",
+          "Add links to GitHub/portfolio projects",
+          "Tailor keywords to target job descriptions",
+          "Use action verbs to start each bullet point"
+        ],
+        "strengths": [
+          "Clear and structured layout",
+          "Good use of action verbs",
+          "Relevant work experience",
+          "Educational background aligns with career goals"
+        ]
+      }
+    }
+  ],
+  "jobDescriptions": [
+    {
+      "id": "220c30df-9dad-4fe2-962e-a33500d2d616",
+      "title": "senior full stack developer",
+      "company": "infosy",
+      "description": "We are looking for a Senior Full Stack Engineer to join our growing team.\n\nRequirements:\n- 4+ years of experience with React, Node.js, and TypeScript\n- Strong knowledge of PostgreSQL and Redis\n- Experience with Docker, Kubernetes, and AWS services\n- Familiarity with GraphQL and REST APIs\n- Experience with CI/CD pipelines and GitHub Actions\n- Excellent problem-solving skills and attention to detail\n\nNice to have:\n- Open source contributions\n- Experience with microservices architecture\n- Knowledge of system design principles",
+      "createdAt": "2026-09-20T05:04:06.495Z"
+    },
+    {
+      "id": "14bbf4c4-93e1-4b1c-a010-56124471c5f7",
+      "title": "data analytics",
+      "company": "Unknown",
+      "description": "We are looking for a Senior Full Stack Engineer to join our growing team.\n\nRequirements:\n- 4+ years of experience with React, Node.js, and TypeScript\n- Strong knowledge of PostgreSQL and Redis\n- Experience with Docker, Kubernetes, and AWS services\n- Familiarity with GraphQL and REST APIs\n- Experience with CI/CD pipelines and GitHub Actions\n- Excellent problem-solving skills and attention to detail\n\nNice to have:\n- Open source contributions\n- Experience with microservices architecture\n- Knowledge of system design principles",
+      "createdAt": "2026-09-20T06:41:53.819Z"
+    }
+  ],
+  "history": [
+    {
+      "id": "79062e1e-5648-4670-8f19-f685a920767f",
+      "type": "analysis",
+      "label": "Analyzed sample_resume.pdf",
+      "timestamp": "2026-09-20T04:59:11.546Z",
+      "ref": "2aa4e6a1-3479-4f9c-a9e4-92c08af0991b"
+    },
+    {
+      "id": "3a3c8a4c-e81d-408c-9c6b-8f003a57992c",
+      "type": "match",
+      "label": "Matched sample_resume.pdf to senior full stack developer",
+      "timestamp": "2026-09-20T05:04:10.776Z",
+      "ref": "9f93ff82-7146-466e-9e98-dcce992376dc"
+    },
+    {
+      "id": "1bf56ecc-c2a0-4eb6-90a7-152eb2cc05fa",
+      "type": "analysis",
+      "label": "Analyzed sample_resume.pdf",
+      "timestamp": "2026-09-20T06:40:51.081Z",
+      "ref": "624be12a-b8a6-452e-8e51-6712c63041cf"
+    },
+    {
+      "id": "efa4011b-088e-4c9f-8210-ce781a63f491",
+      "type": "match",
+      "label": "Matched sample_resume.pdf to senior full stack developer",
+      "timestamp": "2026-09-20T06:41:29.592Z",
+      "ref": "1f0c18c1-8478-43c5-8f78-29ec049dbb40"
+    },
+    {
+      "id": "d1c38650-c3d7-4992-81c2-6d3260bab7ab",
+      "type": "match",
+      "label": "Matched sample_resume.pdf to data analytics",
+      "timestamp": "2026-09-20T06:41:57.532Z",
+      "ref": "bb12f10a-ab7d-4d03-be87-8d2b28f1d6e0"
+    },
+    {
+      "id": "a7a38d2a-c9eb-4c59-b71d-d59e53f42a14",
+      "type": "analysis",
+      "label": "Analyzed Kumkum_Yadav_Sample_Resume.pdf",
+      "timestamp": "2026-09-20T06:44:41.560Z",
+      "ref": "d23336be-0a9f-4af9-b763-66374f642b6f"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "resumex",
+  "version": "1.0.0",
+  "description": "ResumeX – AI Resume Intelligence Platform",
+  "scripts": {
+    "dev:backend": "cd backend && node server.js",
+    "dev:frontend": "cd frontend && npm run dev",
+    "install:all": "cd frontend && npm install && cd ../backend && npm install",
+    "start": "node -e \"const {spawn}=require('child_process'); spawn('node',['backend/server.js'],{stdio:'inherit',shell:true}); spawn('npx',['--prefix','frontend','vite'],{stdio:'inherit',shell:true});\""
+  }
+}
