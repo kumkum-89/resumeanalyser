@@ -1,4 +1,4 @@
-const API_BASE = '/api';
+const API_BASE = 'https://resumex-backend-klgv.onrender.com/api';
 
 async function request(method, path, body, isFormData = false) {
   const opts = {
