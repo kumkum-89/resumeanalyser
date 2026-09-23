@@ -23,6 +23,14 @@
       "size": 3648,
       "uploadedAt": "2026-09-20T06:44:40.027Z",
       "path": "C:\\Users\\kumku\\OneDrive\\Desktop\\resume analyser 2\\backend\\uploads\\1a0a1497-3625-4ca4-96ff-02c94544f861-Kumkum_Yadav_Sample_Resume.pdf"
+    },
+    {
+      "id": "1a98d683-ad43-4406-ade8-479bc422b49f",
+      "filename": "99dc83bb-665d-4233-ad4d-647a7de985f5-Kumkum_Yadav_Sample_Resume.pdf",
+      "originalName": "Kumkum_Yadav_Sample_Resume.pdf",
+      "size": 3648,
+      "uploadedAt": "2026-09-20T10:01:59.467Z",
+      "path": "C:\\Users\\kumku\\OneDrive\\Desktop\\resume analyser 2\\backend\\uploads\\99dc83bb-665d-4233-ad4d-647a7de985f5-Kumkum_Yadav_Sample_Resume.pdf"
     }
   ],
   "analyses": [
@@ -199,6 +207,64 @@
           "Educational background aligns with career goals"
         ]
       }
+    },
+    {
+      "id": "b1354ded-6cf5-4275-ae39-e6ba0a803acf",
+      "resumeId": "1a98d683-ad43-4406-ade8-479bc422b49f",
+      "resumeName": "Kumkum_Yadav_Sample_Resume.pdf",
+      "createdAt": "2026-09-20T10:02:01.020Z",
+      "analysis": {
+        "overallScore": 91,
+        "atsScore": 91,
+        "readabilityScore": 93,
+        "sections": {
+          "experience": {
+            "score": 87,
+            "feedback": "Good experience section with quantified achievements."
+          },
+          "education": {
+            "score": 81,
+            "feedback": "Education details are well presented."
+          },
+          "skills": {
+            "score": 88,
+            "feedback": "Consider adding more technical skills relevant to your target role."
+          },
+          "summary": {
+            "score": 75,
+            "feedback": "Professional summary could be more impactful."
+          }
+        },
+        "keywords": [
+          "Python",
+          "Machine Learning",
+          "React",
+          "Node.js",
+          "SQL",
+          "Docker",
+          "AWS",
+          "Agile"
+        ],
+        "missingKeywords": [
+          "Kubernetes",
+          "TypeScript",
+          "GraphQL",
+          "CI/CD"
+        ],
+        "suggestions": [
+          "Add quantifiable metrics to at least 3 more bullet points",
+          "Include a professional summary at the top",
+          "Add links to GitHub/portfolio projects",
+          "Tailor keywords to target job descriptions",
+          "Use action verbs to start each bullet point"
+        ],
+        "strengths": [
+          "Clear and structured layout",
+          "Good use of action verbs",
+          "Relevant work experience",
+          "Educational background aligns with career goals"
+        ]
+      }
     }
   ],
   "jobDescriptions": [
@@ -259,6 +325,13 @@
       "label": "Analyzed Kumkum_Yadav_Sample_Resume.pdf",
       "timestamp": "2026-09-20T06:44:41.560Z",
       "ref": "d23336be-0a9f-4af9-b763-66374f642b6f"
+    },
+    {
+      "id": "cf4391ad-b4b6-47d1-8362-672c38ff4deb",
+      "type": "analysis",
+      "label": "Analyzed Kumkum_Yadav_Sample_Resume.pdf",
+      "timestamp": "2026-09-20T10:02:01.020Z",
+      "ref": "b1354ded-6cf5-4275-ae39-e6ba0a803acf"
     }
   ]
 }
